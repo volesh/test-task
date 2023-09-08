@@ -1,0 +1,46 @@
+.logoContainer {
+  padding: 8px;
+  width: 30px;
+  height: 30px;
+  color: white;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(90deg, rgba(41, 121, 255, 1) 6%, rgba(77, 89, 158, 1) 43%);
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: 400;
+}
+
+.logoText {
+  margin: 0;
+  padding: 0;
+  font-size: 36px;
+  font-weight: 600;
+}
+
+.searchIcon {
+  padding: 5px;
+}
+
+.searchInput {
+  flex: 8;
+  border: none;
+  outline: none;
+  border-radius: 20px;
+  background-color: transparent;
+  height: 100%;
+}
+
+.clearIcon {
+  padding: 5px;
+  cursor: pointer;
+}
+
+.buttonText {
+  padding: 0;
+  margin: 0;
+}
