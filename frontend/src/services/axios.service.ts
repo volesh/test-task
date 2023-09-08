@@ -1,6 +1,6 @@
 import axios, { AxiosInstance } from "axios";
 
-const baseURL = "http://localhost:5000";
+const baseURL = "https://test-task-production-9608.up.railway.app";
 
 interface AxiosService extends AxiosInstance {}
 
